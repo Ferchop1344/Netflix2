@@ -1,0 +1,58 @@
+#contenido{
+    background-color:rgba(0,0,0,0.5);
+    height: 100vh; 
+}
+
+#logo{
+    padding: 20px;
+    width:  160px;
+}
+
+#formulario {
+    background-color:rgba(0, 0, 0, 0.774);
+    color:  #fff;
+    width: 330px;
+    height: 700px;
+    border-radius: 10px;
+    padding: 30px 60px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#formulario h1{
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'Helvetica Neue',Arial, Helvetica, sans-serif;
+}
+/*input{
+    width: 100;
+    padding: 15px;
+    }
+*/
+.control {
+    width: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 1rem;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border-width: 0;
+    
+    }
+
+.caja-texto{
+    background-color: #333;
+}    
+
+.boton{
+    background-color: red;
+    font-weight: bold;
+    color: #fff;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.boton:hover{
+    background-color: rgb(143, 7, 7);
+    text-decoration: underline;
+}
